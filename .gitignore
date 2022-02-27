@@ -7,4 +7,3 @@ project/logs/celery.log
 *.png
 testing/*
 project/app.yaml
-*.yml
