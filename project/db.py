@@ -52,7 +52,7 @@ def query_raw(
     trx_id:str=None,
     before:str=None,
     after:str=None,
-    fuel_type:config.ModelName=None,
+    fuel_type:config.FuelType=None,
     before_timestamp:int=None,
     after_timestamp:int=None,
     offset: int = 0,
